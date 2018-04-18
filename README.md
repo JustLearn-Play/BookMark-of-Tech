@@ -9,7 +9,7 @@
 ## 刷题类
 - [牛客网](https://www.nowcoder.com)
 - [七月在线](https://www.julyedu.com)
-- [七月在线](http://www.lintcode.com)
+- [lintcode](http://www.lintcode.com)
 - [leetcode](https://leetcode.com)
 - [leetcode中国](https://leetcode-cn.com)
 
