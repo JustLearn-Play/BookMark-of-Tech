@@ -15,6 +15,7 @@
 
 ## 第三方官网
 - [机器之心](https://www.jiqizhixin.com)
+- [mlhub123](https://www.mlhub123.com/)
 
 ## 比赛竞技
 - [Kaggle](https://www.kaggle.com)
