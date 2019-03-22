@@ -13,7 +13,7 @@
 - [leetcode](https://leetcode.com)
 - [leetcode中国](https://leetcode-cn.com)
 
-## 第三方官网
+## 视野拓展
 - [机器之心](https://www.jiqizhixin.com)
 - [mlhub123](https://www.mlhub123.com/)
 - [掘金](https://juejin.im/timeline)
