@@ -24,7 +24,7 @@
 - [阿里天池](https://tianchi.aliyun.com)
 
 ## 技术博客
-- 推酷里的博客收藏
+- [推酷](https://www.tuicool.com/sites)里的博客收藏
 - [美团点评技术团队](https://tech.meituan.com)
 
 ## 技术前沿
