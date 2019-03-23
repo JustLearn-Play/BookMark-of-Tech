@@ -40,3 +40,7 @@
 - [机器学习速成课第三方](https://zhuanlan.zhihu.com/p/34213947)
 - [cs229](http://cs229.stanford.edu/)
 - 吴恩达斯坦福机器学习教程
+
+## 学无止境
+- [中国大学MOOC](https://www.icourse163.org)
+
