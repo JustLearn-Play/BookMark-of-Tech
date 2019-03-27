@@ -44,6 +44,7 @@
 - [贴吧](https://tieba.baidu.com/f?kw=azw3)
 - [书伴](https://bookfere.com)
 - [读书小站](http://ibooks.org.cn)
+- [pubee](http://cn.epubee.com/books)
 
 ## mac资源
 - [精品MAC应用](https://xclient.info)
