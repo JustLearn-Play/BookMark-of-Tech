@@ -18,6 +18,7 @@
 - [掘金](https://juejin.im/timeline)
 - [知乎](https://www.zhihu.com)
 - [next](http://next.36kr.com/posts)
+- [v2ex](https://www.v2ex.com)
 
 ## 资源整合
 - [mlhub123](https://www.mlhub123.com/)
