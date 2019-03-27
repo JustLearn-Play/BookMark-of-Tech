@@ -50,6 +50,7 @@
 - [pubee](http://cn.epubee.com/books)
 - [图灵社区](http://www.ituring.com.cn)
 - [看云](https://www.kancloud.cn/explore)
+- [我的小书屋](http://mebook.cc/)
 
 ## mac资源
 - [精品MAC应用](https://xclient.info)
