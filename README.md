@@ -27,6 +27,7 @@
 ## 比赛竞技
 - [Kaggle](https://www.kaggle.com)
 - [阿里天池](https://tianchi.aliyun.com)
+- [计蒜客](https://www.jisuanke.com)
 
 ## 技术博客
 - [推酷](https://www.tuicool.com/sites)里的博客收藏
