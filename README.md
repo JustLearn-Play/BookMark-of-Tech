@@ -40,6 +40,7 @@
 - [Latex模板](http://www.latextemplates.com/)
 
 ## azw3资源
+- [书伴](https://bookfere.com)
 - [读书小站](http://ibooks.org.cn)
 
 ## 视频教程
