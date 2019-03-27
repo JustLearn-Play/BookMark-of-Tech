@@ -40,11 +40,12 @@
 - [Latex在线编辑](https://cn.overleaf.com/project)
 - [Latex模板](http://www.latextemplates.com/)
 
-## azw3资源
+## 书籍资源
 - [贴吧](https://tieba.baidu.com/f?kw=azw3)
 - [书伴](https://bookfere.com)
 - [读书小站](http://ibooks.org.cn)
 - [pubee](http://cn.epubee.com/books)
+- [图灵社区](http://www.ituring.com.cn)
 
 ## mac资源
 - [精品MAC应用](https://xclient.info)
