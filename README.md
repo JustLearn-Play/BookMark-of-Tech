@@ -19,6 +19,7 @@
 - [知乎](https://www.zhihu.com)
 - [next](http://next.36kr.com/posts)
 - [v2ex](https://www.v2ex.com)
+- [伯乐在线](http://www.jobbole.com)
 
 ## 资源整合
 - [mlhub123](https://www.mlhub123.com/)
