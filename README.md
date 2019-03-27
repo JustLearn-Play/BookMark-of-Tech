@@ -37,6 +37,7 @@
 - [deeplearning](https://www.deeplearning.ai)
 
 ## 数学相关
+- [博士家园](http://www.math.org.cn)
 - [统计之都](https://cosx.org)
 - [Latex在线编辑](https://cn.overleaf.com/project)
 - [Latex模板](http://www.latextemplates.com/)
