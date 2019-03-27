@@ -37,6 +37,7 @@
 ## 数学相关
 - [统计之都](https://cosx.org)
 - [Latex在线编辑](https://cn.overleaf.com/project)
+- [Latex模板](http://www.latextemplates.com/)
 
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
