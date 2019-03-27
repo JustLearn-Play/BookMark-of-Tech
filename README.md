@@ -47,6 +47,7 @@
 - [读书小站](http://ibooks.org.cn)
 - [pubee](http://cn.epubee.com/books)
 - [图灵社区](http://www.ituring.com.cn)
+- [看云](https://www.kancloud.cn/explore)
 
 ## mac资源
 - [精品MAC应用](https://xclient.info)
