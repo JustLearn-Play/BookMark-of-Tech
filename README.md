@@ -44,6 +44,9 @@
 - [书伴](https://bookfere.com)
 - [读书小站](http://ibooks.org.cn)
 
+## mac资源
+- [精品MAC应用](https://xclient.info)
+
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
 - [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
