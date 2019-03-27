@@ -34,6 +34,9 @@
 ## 技术前沿
 - [deeplearning](https://www.deeplearning.ai)
 
+## 数学相关
+- [统计之都](https://cosx.org/)
+
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
 - [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
