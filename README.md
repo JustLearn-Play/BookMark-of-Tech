@@ -54,6 +54,7 @@
 
 ## mac资源
 - [精品MAC应用](https://xclient.info)
+- [知您网](https://www.zhinin.com/class/apple/mac-game)
 
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
