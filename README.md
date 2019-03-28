@@ -21,6 +21,7 @@
 - [next](http://next.36kr.com/posts)
 - [v2ex](https://www.v2ex.com)
 - [伯乐在线](http://www.jobbole.com)
+- [开源中国](https://www.oschina.net/)
 
 ## 资源整合及工具
 - [mlhub123](https://www.mlhub123.com/)
