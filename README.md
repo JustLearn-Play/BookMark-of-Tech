@@ -5,6 +5,7 @@
 - 新浪微博-技术
 - 微信公众号
 - github的star项目
+- [搜狗微信](https://weixin.sogou.com/)
 
 ## 刷题类
 - [牛客网](https://www.nowcoder.com)
