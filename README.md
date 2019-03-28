@@ -25,6 +25,7 @@
 ## 资源整合
 - [mlhub123](https://www.mlhub123.com/)
 - [hexo主题](https://hexo.io/themes/)
+- [阿里图标](https://www.iconfont.cn/)
 
 ## 比赛竞技
 - [Kaggle](https://www.kaggle.com)
