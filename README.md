@@ -36,6 +36,7 @@
 
 ## 大牛主页
 - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
 
 ## 技术前沿
 - [deeplearning](https://www.deeplearning.ai)
