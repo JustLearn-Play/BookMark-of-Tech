@@ -48,6 +48,7 @@
 - [Latex在线编辑](https://cn.overleaf.com/project)
 - [Latex模板](http://www.latextemplates.com/)
 - [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php)
+- [CNLatex在线公式](https://www.codecogs.com/latex/eqneditor.php)
 
 ## 书籍资源
 - [贴吧](https://tieba.baidu.com/f?kw=azw3)
