@@ -61,6 +61,7 @@
 - [精品MAC应用](https://xclient.info)
 - [知您网](https://www.zhinin.com/class/apple/mac-game)
 - [爱情守望者](https://www.waitsun.com/)
+- [七度苹果](http://game.7do.net/)
 - [威锋网](https://bbs.feng.com/thread-htm-fid-19.html)
 
 ## 视频教程
