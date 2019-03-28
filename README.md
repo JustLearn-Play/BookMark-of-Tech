@@ -47,6 +47,7 @@
 - [统计之都](https://cosx.org)
 - [Latex在线编辑](https://cn.overleaf.com/project)
 - [Latex模板](http://www.latextemplates.com/)
+- [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php)
 
 ## 书籍资源
 - [贴吧](https://tieba.baidu.com/f?kw=azw3)
