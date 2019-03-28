@@ -28,6 +28,7 @@
 - [阿里图标](https://www.iconfont.cn/)
 - [smallpdf](https://smallpdf.com/cn)
 - [lightpdf](https://lightpdf.com/zh)
+- [英文字体](https://www.fontsquirrel.com/fonts/list/hot)
 
 ## 比赛竞技
 - [Kaggle](https://www.kaggle.com)
