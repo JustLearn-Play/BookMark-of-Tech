@@ -22,11 +22,12 @@
 - [v2ex](https://www.v2ex.com)
 - [伯乐在线](http://www.jobbole.com)
 
-## 资源整合
+## 资源整合及工具
 - [mlhub123](https://www.mlhub123.com/)
 - [hexo主题](https://hexo.io/themes/)
 - [阿里图标](https://www.iconfont.cn/)
 - [smallpdf](https://smallpdf.com/cn)
+- [lightpdf](https://lightpdf.com/zh)
 
 ## 比赛竞技
 - [Kaggle](https://www.kaggle.com)
