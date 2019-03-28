@@ -33,6 +33,7 @@
 ## 技术博客
 - [推酷](https://www.tuicool.com/sites)里的博客收藏
 - [美团点评技术团队](https://tech.meituan.com)
+- [简书](https://www.jianshu.com/)
 
 ## 大牛主页
 - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
