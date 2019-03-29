@@ -22,16 +22,14 @@
 [mlhub123](https://www.mlhub123.com/) | [hexo主题](https://hexo.io/themes/) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com)
 
 ## 比赛竞技
-😶 | 🙄 | 😣
+😶 | 🙄 | 😏
 :-: | :-: | :-: 
 [Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com) | [计蒜客](https://www.jisuanke.com)
 
 ## 技术博客
-- [推酷](https://www.tuicool.com/sites)里的博客收藏
-- [美团点评技术团队](https://tech.meituan.com)
-- [简书](https://www.jianshu.com/)
-- [性能与架构](http://yogoup.sinaapp.com)
-- [studyai](http://studyai.com/)
+😣 | 😥 | 😮 | 🤐 | 😯 | 😪 | 😫
+:-: | :-: | :-: | :-: | :-: 
+[推酷](https://www.tuicool.com/sites) | [美团](https://tech.meituan.com) | [简书](https://www.jianshu.com/) | [性能与架构](http://yogoup.sinaapp.com) | [studyai](http://studyai.com/)
 
 ## 大牛主页
 - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
