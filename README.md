@@ -9,7 +9,7 @@
 name | 111 | 222 | 333 | 444
 :-: | :-: | :-: | :-: | :-:
 aaa | bbb | ccc | ddd | eee| 
-fff | ggg| hhh | iii | 000|
+fff | 
 
 ## 刷题类
 - [牛客网](https://www.nowcoder.com)
