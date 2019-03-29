@@ -42,12 +42,9 @@
 [deeplearning](https://www.deeplearning.ai)
 
 ## 数学相关
-- [博士家园](http://www.math.org.cn)
-- [统计之都](https://cosx.org)
-- [Latex在线编辑](https://cn.overleaf.com/project)
-- [Latex模板](http://www.latextemplates.com/)
-- [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php)
-- [CNLatex在线公式](https://www.codecogs.com/latex/eqneditor.php)
+😛 | 😜 | 😝 | 🤤 | 😒
+:-: | :-: | :-: | :-: | :-:
+[博士家园](http://www.math.org.cn) | [统计之都](https://cosx.org) | [Latex在线编辑](https://cn.overleaf.com/project) | [Latex模板](http://www.latextemplates.com/) | [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php) | [CNLatex在线公式](https://www.codecogs.com/latex/eqneditor.php)
 
 ## 书籍资源
 - [贴吧](https://tieba.baidu.com/f?kw=azw3)
@@ -69,4 +66,4 @@
 
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
-- [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1
+- [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
