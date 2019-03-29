@@ -7,9 +7,9 @@
 新浪微博-技术 | 微信公众号 | github的star项目 | [搜狗微信](https://weixin.sogou.com/) | 
 
 ## 刷题类
-😀 | 😁 | 😂 | 🤣 | 🤤
+😍 | 😅 | 😆 | 😉 | 🤤
 :-: | :-: | :-: | :-: | :-:
-[牛客网](https://www.nowcoder.com) | [七月在线](https://www.julyedu.com/question/index) | [lintcode](http://www.lintcode.com | [leetcode](https://leetcode.com) | [leetcode中国](https://leetcode-cn.com)
+[牛客网](https://www.nowcoder.com) | [七月在线](https://www.julyedu.com/question/index) | [lintcode](http://www.lintcode.com) | [leetcode](https://leetcode.com) | [leetcode中国](https://leetcode-cn.com)
 
 ## 视野拓展
 - [机器之心](https://www.jiqizhixin.com)
