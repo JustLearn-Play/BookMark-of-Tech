@@ -52,12 +52,9 @@
 [贴吧](https://tieba.baidu.com/f?kw=azw3) | [书伴](https://bookfere.com) | [读书小站](http://ibooks.org.cn) | [pubee](http://cn.epubee.com/books) | [图灵社区](http://www.ituring.com.cn) | [看云](https://www.kancloud.cn/explore) | [我的小书屋](http://mebook.cc/) | [genlib](http://gen.lib.rus.ec)
 
 ## mac资源
-- [精品MAC应用](https://xclient.info)
-- [知您网](https://www.zhinin.com/class/apple/mac-game)
-- [爱情守望者](https://www.waitsun.com/)
-- [七度苹果](http://game.7do.net/)
-- [nmac](https://nmac.to/candleman/)
-- [威锋网](https://bbs.feng.com/thread-htm-fid-19.html)
+😞 | 😟 | 😤 | 😢 | 😭 | 😦
+:-: | :-: | :-: | :-: | :-: | :-:
+[精品MAC应用](https://xclient.info) | [知您网](https://www.zhinin.com/class/apple/mac-game) | [爱情守望者](https://www.waitsun.com/) | [七度苹果](http://game.7do.net/) | [nmac](https://nmac.to/candleman/) | [威锋网](https://bbs.feng.com/thread-htm-fid-19.html)
 
 ## 视频教程
 - [莫烦Python](https://morvanzhou.github.io)
