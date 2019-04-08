@@ -32,9 +32,9 @@
 [推酷](https://www.tuicool.com/sites) | [美团](https://tech.meituan.com) | [简书](https://www.jianshu.com/) | [性能与架构](http://yogoup.sinaapp.com) | [studyai](http://studyai.com/)
 
 ## 大牛主页
-😪 | 😫 | 😴
-:-: | :-: | :-: 
-[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com)
+😪 | 😫 | 😴 | 🤧
+:-: | :-: | :-: | :-: 
+[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io)
 
 ## 技术前沿
 😌
