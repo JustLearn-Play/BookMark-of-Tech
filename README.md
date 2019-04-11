@@ -62,6 +62,6 @@
 [精品MAC应用](https://xclient.info) | [知您网](https://www.zhinin.com/class/apple/mac-game) | [爱情守望者](https://www.waitsun.com/) | [七度苹果](http://game.7do.net/) | [nmac](https://nmac.to/candleman/) | [威锋网](https://bbs.feng.com/thread-htm-fid-19.html)
 
 ## 视频教程
-😧 | 😨 
-:-: | :-: 
-[莫烦Python](https://morvanzhou.github.io) | [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+😧 | 😨 | 🤠
+:-: | :-: | :-:
+[莫烦Python](https://morvanzhou.github.io) | [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm) | [麦子学院](http://www.maiziedu.com/course/1009)
