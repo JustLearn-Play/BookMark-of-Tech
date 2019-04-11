@@ -64,7 +64,7 @@
 ## 视频教程
 😧 | 😨 | 🤠 | 🤥 | 🤓 | 😈
 :-: | :-: | :-: | :-: | :-: | :-:
-[莫烦Python](https://morvanzhou.github.io) | [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm) | [麦子学院](http://www.maiziedu.com/course/1009) | [机器学习速成课程官网](https://developers.google.cn/machine-learning/crash-course) | [机器学习速成课第三方](https://zhuanlan.zhihu.com/p/34213947) | [cs229](http://cs229.stanford.edu/)
+[莫烦Python](https://morvanzhou.github.io) | [吴恩达人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm) | [麦子学院](http://www.maiziedu.com/course/1009) | [机器学习速成课程官网](https://developers.google.cn/machine-learning/crash-course) | [机器学习速成课第三方](https://zhuanlan.zhihu.com/p/34213947) | [cs229](http://cs229.stanford.edu/)
 
 ## 学无止境
 👿 | 👹 
