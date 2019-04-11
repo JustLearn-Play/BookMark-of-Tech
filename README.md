@@ -24,7 +24,7 @@
 ## 比赛竞技
 😶 | 🙄 | 😏 | 👺
 :-: | :-: | :-: | :-: 
-[Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com) | [计蒜客](https://www.jisuanke.com) | [实验楼](https://www.shiyanlou.com)
+[Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com/course/index) | [计蒜客](https://www.jisuanke.com) | [实验楼](https://www.shiyanlou.com)
 
 ## 技术博客
 😣 | 😥 | 😮 | 🤐 | 😯 | 🤡
