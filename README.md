@@ -12,9 +12,9 @@
 [牛客网](https://www.nowcoder.com) | [七月在线](https://www.julyedu.com/question/index) | [lintcode](http://www.lintcode.com) | [leetcode](https://leetcode.com) | [leetcode中国](https://leetcode-cn.com)
 
 ## 视野拓展
-😊 | 😋 | 😎 | 😍 | 😘 | 😗 | 😙 | 😱
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[机器之心](https://www.jiqizhixin.com) | [掘金](https://juejin.im/timeline) | [知乎](https://www.zhihu.com) | [next](http://next.36kr.com/posts) | [v2ex](https://www.v2ex.com) | [伯乐在线](http://www.jobbole.com) | [开源中国](https://www.oschina.net/) | [infoQ](https://www.infoq.cn)
+😊 | 😋 | 😎 | 😍 | 😘 | 😗 | 😙 | 😱| 👽
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+[机器之心](https://www.jiqizhixin.com) | [掘金](https://juejin.im/timeline) | [知乎](https://www.zhihu.com) | [next](http://next.36kr.com/posts) | [v2ex](https://www.v2ex.com) | [伯乐在线](http://www.jobbole.com) | [开源中国](https://www.oschina.net/) | [infoQ](https://www.infoq.cn) | [大数据世界](http://www.thebigdata.cn/)
 
 ## 资源整合及工具
 😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 
