@@ -19,7 +19,7 @@
 ## 资源整合及工具
 😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[mlhub123](https://www.mlhub123.com/) | [hexo主题](https://hexo.io/themes/) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com/)
+[mlhub123](https://www.mlhub123.com) | [hexo主题](https://hexo.io/themes) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com)
 
 ## 比赛竞技
 😶 | 🙄 | 😏 | 👺
@@ -37,9 +37,9 @@
 [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io)
 
 ## 一些博客
-😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆萌的猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) 
+😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾| 🤖
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆萌的猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) | [jhuang](https://jhuangpku.github.io/blog.html) 
 
 ## 数学相关
 😛 | 😜 | 😝 | 🤤 | 😒
