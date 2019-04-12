@@ -36,6 +36,11 @@
 :-: | :-: | :-: | :-: | :-: 
 [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io) | [陈天奇](https://homes.cs.washington.edu/~tqchen/)
 
+## 源码研读
+💩 
+:-: 
+[xgboost](https://xgboost.ai) 
+
 ## 一些博客
 😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
