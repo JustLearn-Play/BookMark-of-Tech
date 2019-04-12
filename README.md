@@ -37,9 +37,10 @@
 [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io)
 
 ## 一些博客
-😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾| 🤖
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆萌的猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) | [jhuang](https://jhuangpku.github.io/blog.html) 
+😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆萌的猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) 
+[jhuang](https://jhuangpku.github.io/blog.html) 
 
 ## 数学相关
 😛 | 😜 | 😝 | 🤤 | 😒
