@@ -18,9 +18,9 @@
 [干货](http://gank.io/xiandu)
 
 ## 资源整合及工具
-😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[mlhub123](https://www.mlhub123.com) | [hexo主题](https://hexo.io/themes) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com)
+😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 | 😽
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+[mlhub123](https://www.mlhub123.com) | [hexo主题](https://hexo.io/themes) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com) | [iconstore](https://iconstore.co)
 
 ## 比赛竞技
 😶 | 🙄 | 😏 | 👺
