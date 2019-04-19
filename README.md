@@ -53,9 +53,9 @@
 [博士家园](http://www.math.org.cn) | [统计之都](https://cosx.org) | [Latex在线编辑](https://cn.overleaf.com/project) | [Latex模板](http://www.latextemplates.com/) | [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php) | [CNLatex在线公式](https://www.codecogs.com/latex/eqneditor.php)
 
 ## 书籍资源
-😓 | 😔 | 😕 | 🙃 | 🤑 | 😲 | 🙁 | 😖
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[贴吧](https://tieba.baidu.com/f?kw=azw3) | [书伴](https://bookfere.com) | [读书小站](http://ibooks.org.cn) | [pubee](http://cn.epubee.com/books) | [图灵社区](http://www.ituring.com.cn) | [看云](https://www.kancloud.cn/explore) | [我的小书屋](http://mebook.cc/) | [genlib](http://gen.lib.rus.ec)
+😓 | 😔 | 😕 | 🙃 | 🤑 | 😲 | 🙁 | 😖 | 😹
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+[贴吧](https://tieba.baidu.com/f?kw=azw3) | [书伴](https://bookfere.com) | [读书小站](http://ibooks.org.cn) | [pubee](http://cn.epubee.com/books) | [图灵社区](http://www.ituring.com.cn) | [看云](https://www.kancloud.cn/explore) | [我的小书屋](http://mebook.cc/) | [genlib](http://gen.lib.rus.ec) | [鸠摩搜书](https://www.jiumodiary.com)
 
 ## mac资源
 😞 | 😟 | 😤 | 😢 | 😭 | 😦
