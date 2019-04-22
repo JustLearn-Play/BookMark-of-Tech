@@ -15,7 +15,7 @@
 😊 | 😋 | 😎 | 😍 | 😘 | 😗 | 😙 | 😱 | 👽| 😺 | 😻
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 [机器之心](https://www.jiqizhixin.com) | [掘金](https://juejin.im/timeline) | [知乎](https://www.zhihu.com) | [next](http://next.36kr.com/posts) | [v2ex](https://www.v2ex.com) | [伯乐在线](http://www.jobbole.com) | [开源中国](https://www.oschina.net) | [infoQ](https://www.infoq.cn) | [大数据世界](http://www.thebigdata.cn) | [黑客派](https://hacpai.com) | [传送门](https://chuansongme.com)
-[干货](http://gank.io/xiandu) | [36氪](https://36kr.com) | [大数据田地](http://lxw1234.com)
+[干货](http://gank.io/xiandu) | [36氪](https://36kr.com) | [lxw1234](http://lxw1234.com)
 
 ## 资源整合及工具
 😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 | 😽
