@@ -33,9 +33,9 @@
 [推酷](https://www.tuicool.com/sites) | [美团](https://tech.meituan.com) | [简书](https://www.jianshu.com) | [性能与架构](http://yogoup.sinaapp.com) | [studyai](http://studyai.com) | [博客园](https://www.cnblogs.com) | [松鼠推荐](http://www.felixshare.cn) | [insideai](http://www.insideai.cn)
 
 ## 大牛主页
-😪 | 😫 | 😴 | 🤧 | 🤖
-:-: | :-: | :-: | :-: | :-: 
-[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io) | [陈天奇](https://homes.cs.washington.edu/~tqchen/)
+😪 | 😫 | 😴 | 🤧 | 🤖 | 😾
+:-: | :-: | :-: | :-: | :-: | :-: | :-: 
+[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx) | [guidetodatamining](http://www.guidetodatamining.com) | [邱锡鹏](https://xpqiu.github.io) | [陈天奇](https://homes.cs.washington.edu/~tqchen/) | [浙大教师](https://person.zju.edu.cn/index/search)
 
 ## 源码研读
 💩 
