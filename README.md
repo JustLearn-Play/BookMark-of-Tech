@@ -23,9 +23,9 @@
 [mlhub123](https://www.mlhub123.com) | [hexo主题](https://hexo.io/themes) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com) | [iconstore](https://iconstore.co)
 
 ## 比赛竞技
-😶 | 🙄 | 😏 | 👺
-:-: | :-: | :-: | :-: 
-[Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com/course/index) | [计蒜客](https://www.jisuanke.com) | [实验楼](https://www.shiyanlou.com)
+😶 | 🙄 | 😏 | 👺| 🙈
+:-: | :-: | :-: | :-: | :-: 
+[Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com/course/index) | [计蒜客](https://www.jisuanke.com) | [实验楼](https://www.shiyanlou.com) | [我爱竞赛网](http://www.52jingsai.com/bisai/keji/keji/index.php?)
 
 ## 技术博客
 😣 | 😥 | 😮 | 🤐 | 😯 | 🤡 | 😼 | 😿
