@@ -57,7 +57,7 @@
 ## 书籍资源
 😓 | 😔 | 😕 | 🙃 | 🤑 | 😲 | 🙁 | 😖 | 😹 | 😽 | 👳
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[贴吧](https://tieba.baidu.com/f?kw=azw3) | [书伴](https://bookfere.com) | [读书小站](http://ibooks.org.cn) | [pubee](http://cn.epubee.com/books) | [图灵社区](http://www.ituring.com.cn) | [看云](https://www.kancloud.cn/explore) | [我的小书屋](http://mebook.cc/) | [genlib](http://gen.lib.rus.ec) | [鸠摩搜书](https://www.jiumodiary.com) | [booksc](https://booksc.org) | [子午书简](https://5kindle.com)
+[贴吧](https://tieba.baidu.com/f?kw=azw3) | [书伴](https://bookfere.com) | [读书小站](http://ibooks.org.cn) | [pubee](http://cn.epubee.com/books) | [图灵社区](http://www.ituring.com.cn) | [看云](https://www.kancloud.cn/explore) | [小书屋](http://mebook.cc/) | [genlib](http://gen.lib.rus.ec) | [鸠摩搜书](https://www.jiumodiary.com) | [booksc](https://booksc.org) | [子午书简](https://5kindle.com)
 
 ## mac资源
 😞 | 😟 | 😤 | 😢 | 😭 | 😦
