@@ -46,7 +46,7 @@
 ## 一些博客
 😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆萌的猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) 
+[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [呆猿](https://blog.yfd.im) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) 
 [jhuang](https://jhuangpku.github.io/blog.html) | [foamvalue](https://www.foamvalue.com)
 
 ## 数学相关
