@@ -50,8 +50,8 @@
 [jhuang](https://jhuangpku.github.io/blog.html) | [foamvalue](https://www.foamvalue.com)
 
 ## 数学相关
-😛 | 😜 | 😝 | 🤤 | 😒
-:-: | :-: | :-: | :-: | :-:
+😛 | 😜 | 😝 | 🤤 | 😒 | 👩
+:-: | :-: | :-: | :-: | :-: | :-:
 [博士家园](http://www.math.org.cn) | [统计之都](https://cosx.org) | [Latex在线编辑](https://cn.overleaf.com/project) | [Latex模板](http://www.latextemplates.com/) | [Latex在线公式](http://latex.codecogs.com/eqneditor/editor.php) | [CNLatex在线公式](https://www.codecogs.com/latex/eqneditor.php)
 
 ## 书籍资源
