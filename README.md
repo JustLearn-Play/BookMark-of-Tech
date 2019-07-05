@@ -46,8 +46,7 @@
 ## 一些博客
 😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀 | 👾
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [安道](https://about.ac) | [zgq](https://blog.izgq.net) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) | [foamvalue](https://www.foamvalue.com)
-[jhuang](https://jhuangpku.github.io/blog.html)
+[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [安道](https://about.ac) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [fuckai](http://fuckai.tw/#!index.md) | [vulgur](https://vulgur.github.io) | [foamvalue](https://www.foamvalue.com) | [jhuang](https://jhuangpku.github.io/blog.html)
 
 ## 数学相关
 😛 | 😜 | 😝 | 🤤 | 😒 | 👩
