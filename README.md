@@ -44,9 +44,9 @@
 [xgboost](https://xgboost.ai) 
 
 ## 一些博客
-😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 
-:-: | :-: | :-: | :-: | :-: | :-: | :-: 
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [kingauthur](http://kingauthur.info) | [安道](https://about.ac) | [ehlxr](https://ehlxr.me) | [foamvalue](https://www.foamvalue.com) | [jhuang](https://jhuangpku.github.io/blog.html)
+😳 | 😵 | 😵 | 😡 | 😠 | 😷 
+:-: | :-: | :-: | :-: | :-: | :-: 
+[屠城](https://www.haomwei.com) | [kingauthur](http://kingauthur.info) | [安道](https://about.ac) | [ehlxr](https://ehlxr.me) | [foamvalue](https://www.foamvalue.com) | [jhuang](https://jhuangpku.github.io/blog.html)
 
 ## 数学相关
 😛 | 😜 | 😝 | 🤤 | 😒 | 👩
