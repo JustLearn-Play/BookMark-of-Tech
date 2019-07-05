@@ -44,9 +44,9 @@
 [xgboost](https://xgboost.ai) 
 
 ## 一些博客
-😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 | 💀
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [安道](https://about.ac) | [ehlxr](https://ehlxr.me) | [bertliu](https://bertliu.com) | [vulgur](https://vulgur.github.io) | [foamvalue](https://www.foamvalue.com) | [jhuang](https://jhuangpku.github.io/blog.html)
+😳 | 😵 | 😵 | 😡 | 😠 | 😷 | 🤒 | 🤕 | 🤢 | 😇 
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
+[屠城](https://www.haomwei.com) | [不如](http://ibruce.info) | [litten](http://litten.me) | [kingauthur](http://kingauthur.info) | [aevit](http://aevit.xyz) | [安道](https://about.ac) | [ehlxr](https://ehlxr.me) | [vulgur](https://vulgur.github.io) | [foamvalue](https://www.foamvalue.com) | [jhuang](https://jhuangpku.github.io/blog.html)
 
 ## 数学相关
 😛 | 😜 | 😝 | 🤤 | 😒 | 👩
