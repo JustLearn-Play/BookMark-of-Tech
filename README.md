@@ -29,9 +29,9 @@
 [Kaggle](https://www.kaggle.com) | [阿里天池](https://tianchi.aliyun.com/course/index) | [计蒜客](https://www.jisuanke.com) | [实验楼](https://www.shiyanlou.com) | [我爱竞赛网](http://www.52jingsai.com/bisai/keji/keji/index.php?)
 
 ## 技术博客
-😣 | 😥 | 😮 | 🤐 | 😯 | 🤡 | 😼 | 😿
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-[推酷](https://www.tuicool.com/sites) | [美团](https://tech.meituan.com) | [简书](https://www.jianshu.com) | [性能与架构](http://yogoup.sinaapp.com) | [studyai](http://studyai.com) | [博客园](https://www.cnblogs.com) | [松鼠推荐](http://www.felixshare.cn) | [insideai](http://www.insideai.cn)
+😣 | 😥 | 😮 | 🤐 | 😯 | 🤡 | 😼
+:-: | :-: | :-: | :-: | :-: | :-: | :-: 
+[推酷](https://www.tuicool.com/sites) | [美团](https://tech.meituan.com) | [简书](https://www.jianshu.com) | [性能与架构](http://yogoup.sinaapp.com) | [studyai](http://studyai.com) | [博客园](https://www.cnblogs.com) | [松鼠推荐](http://www.felixshare.cn)
 
 ## 大牛主页
 😪 | 😫 | 😴 | 🤧 | 🤖 | 😾
