@@ -21,7 +21,7 @@
 😚 | 😶 | 🙂 | 🤗 | 🤔 | 😐 | 😑 | 😩 | 😽
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 [mlhub123](https://www.mlhub123.com) | [hexo主题](https://hexo.io/themes) | [阿里图标](https://www.iconfont.cn/) | [smallpdf](https://smallpdf.com/cn) | [lightpdf](https://lightpdf.com/zh) | [英文字体](https://www.fontsquirrel.com/fonts/list/hot) | [菜鸟要飞](http://www.newbiefly.com) | [emoji](http://emojihomepage.com) | [iconstore](https://iconstore.co)
-[产品精选](https://zhaodao.ai/pick) | [代码比较](http://www.matools.com/compare) | [优优教程](https://uiiiuiii.com/)
+[产品精选](https://zhaodao.ai/pick) | [代码比较](http://www.matools.com/compare) | [优优教程](https://uiiiuiii.com/) | [如何8](https://www.ruhe8.com/)
 
 ## 比赛竞技
 😶 | 🙄 | 😏 | 👺| 🙈
